@@ -1,0 +1,8 @@
+Hola professor só para deixar claro que deixei Index.html, index2 e 3 
+eu criei neles pela facilidade de que ter de digitar nas uma entre crases "``"
+que possibilita de eu simplesmente depois de pronto só copiar tudo e colar em as crases do app.js
+mas verá que estão ali porem sem ligação alguma, tento procurar conciliar uma pratica um cacuete
+para não me perder ok, desde já muito obrigado.
+Meu diretório no GitHub é meu apelido dos tempos de ensino médio eu uso ele na programação como um codinome
+nem sei se esse costume é utilizado na atualidade, mas eu uso mas abaixo dele está meu nome Real.
+att: Andrei Castro Serpa
